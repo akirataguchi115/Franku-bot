@@ -1,0 +1,12 @@
+{
+    "name": "papafranku",
+    "version": "1.0.0",
+    "description": "World's first Habbo API bot for Discord.",
+    "main": "bot.js",
+    "author": "Akira Taguchi",
+    "dependencies": {
+        "discord.js": "^11.5.1",
+        "jquery": "^3.4.1",
+        "request": "^2.88.0"
+    }
+}
